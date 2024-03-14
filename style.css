@@ -1,0 +1,7 @@
+body{
+    background-image: urL("./assets/background.jpeg");
+};
+
+p { 
+    color: whitesmoke;
+}
